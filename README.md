@@ -2,9 +2,9 @@
 
 [![Created By Bits Please](https://i.imgur.com/UuM5YMF.png)](https://github.com/prajneya/MyMedicine)
 
-Github Link: https://github.com/prajneya/MyMedicine
+Github Link: https://github.com/huzaifa06/MyMed
 
-This repository is an attempt to create a mini world of “MyMedicine - An Online Pharmacy Management System”.  It is a system that stores data and enables functionality that allows users to buy medicines via an online network.  To be precise, pharmacy management system is an internet-based vendor that sells medicines and allowsusers an option to buy from their mobile, laptop etc. 
+This repository is an attempt to create a mini world of “MyMed - An Online Pharmacy Management System”.  It is a system that stores data and enables functionality that allows users to buy medicines via an online network.  To be precise, pharmacy management system is an internet-based vendor that sells medicines and allowsusers an option to buy from their mobile, laptop etc. 
 
 The CLI version for the same can be run by cloning this repo.
 
