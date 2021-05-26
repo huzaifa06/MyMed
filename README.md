@@ -1,4 +1,4 @@
-# MyMedicine - PyMySQL Project (Phase 4)
+# MyMedicine - PyMySQL Project
 
 [![Created By Bits Please](https://i.imgur.com/UuM5YMF.png)](https://github.com/prajneya/MyMedicine)
 
